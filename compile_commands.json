@@ -1,0 +1,9 @@
+[{
+  "file": "D:\\DSA_coding\\DSA_coding\\Project2\\main.cpp",
+  "directory": "D:\\DSA_coding\\DSA_coding\\Project2",
+  "command": "C:/MinGW/bin/g++.exe -c D:\\DSA_coding\\DSA_coding\\Project2\\main.cpp -o D:\\DSA_coding\\DSA_coding\\Project2\\main.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\9.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\9.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\9.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\9.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\9.2.0\\include-fixed -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\DSA_coding\\DSA_coding\\Project1\\main.cpp",
+  "directory": "D:\\DSA_coding\\DSA_coding\\Project1",
+  "command": "C:/MinGW/bin/g++.exe -c D:\\DSA_coding\\DSA_coding\\Project1\\main.cpp -o D:\\DSA_coding\\DSA_coding\\Project1\\main.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\9.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\9.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\9.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\9.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\9.2.0\\include-fixed -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }]
